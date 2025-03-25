@@ -57,6 +57,6 @@ Updated Aviation_Data.csv, removed example_dashboard.png, and added new files
   
 
 ## 🚫 .gitignore  
-Files ignored from Git tracking include:  
+Files ignored from Git tracking include: None
 
 
