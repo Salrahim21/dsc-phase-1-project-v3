@@ -26,7 +26,7 @@ The above is what we used to model the visuals below
 1. **Aircraft Manufacturer vs. Accident Count**⚠️
 2. **Accidents by Country**  🌍
 3. **Flight Phase vs. Accident Severity**  🛫
-The dashboard link is as given [https://github.com/Salrahim21/dsc-phase-1-project-v3/blob/master/data/Dashboard.png] to capture the above visuals.
+The dashboard link is as given [https://public.tableau.com/views/Book1_17422797187800/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link] to capture the above visuals.
 
 ## 📌 Conclusion  
 ### ✈️ Key Findings  
@@ -44,6 +44,8 @@ Commits on Mar 25, 2025
 Updated CONTRIBUTING.md, and LICENSE.md
 Updated .gitignore, CONTRIBUTING.md, and LICENSE.md
 Updated Aviation_Data.csv, removed example_dashboard.png, and added new files
+Commits on MAr 26.2025
+Uploaded the cleaned CSV file and updated the notebook
 
 
 ## 🏗️ Organization  
