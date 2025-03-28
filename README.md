@@ -32,7 +32,8 @@ The dashboard link is as given [https://public.tableau.com/views/Book1_174227971
 ### ✈️ Key Findings  
 1. The **Cessna** aircraft type has the highest accident rate, while **grumman** has the lowest.  
 2. **Landing and Takeoff phases** are the riskiest, contributing to most severe accidents.  
-3. **Adverse weather conditions** significantly increase accident severity.  
+3. **Adverse weather conditions** significantly increase accident severity. 
+The link to the presentation pdf is [https://github.com/Salrahim21/dsc-phase-1-project-v3/blob/master/presentation%20pdf.pdf]
 
 ## 📜 Commit History  
 - Regular updates demonstrating project progression  
